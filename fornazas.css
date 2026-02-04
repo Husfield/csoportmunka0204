@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(126, 57, 2);
+}
+p{
+    color: rgb(11, 134, 7);
+
+}
