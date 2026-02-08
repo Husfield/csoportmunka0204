@@ -15,9 +15,9 @@ body{
     text-align: center;
 }
 
-#menu{
+.menu{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr ;
     gap: 10px;
 }
 
@@ -84,6 +84,9 @@ ul{
 @media screen and (max-width: 1000px) {
     body{
         width: 100%;
+        
     }
-    
+    .menu {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
