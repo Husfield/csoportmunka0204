@@ -82,7 +82,9 @@ ul{
 .fejlec {
     background-color: black;
 }
-
+.tartalom {
+    background-color: rgb(41, 41, 41);
+}
 
 @media screen and (max-width: 1000px) {
     body{
