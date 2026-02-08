@@ -34,7 +34,7 @@ a{
 }
 
 p{
-    color: rgb(11, 134, 7);
+    color: rgb(16, 167, 11);
 
 }
 
@@ -58,6 +58,11 @@ img{
     width: 400px;
 }
 
+ul{
+    list-style-type: square;
+    color: rgb(88, 184, 96);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
 
 
 
