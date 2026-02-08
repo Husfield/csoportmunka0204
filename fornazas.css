@@ -32,13 +32,13 @@ a {
     }
 
 a:hover{
-    color: yellow;
-    background-color: rgb(0, 0, 0);
+    color: rgb(136, 134, 134);
+    background-color: rgb(182, 11, 11);
 }
 
 a{
     text-decoration: none;
-    color: rgb(7, 59, 14);
+    color: rgb(24, 65, 24);
 }
 
 .tarolo, .fejlec, .tartalom, .lablec{
