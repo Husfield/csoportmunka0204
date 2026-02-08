@@ -79,7 +79,9 @@ ul{
     color: rgb(88, 184, 96);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
-
+.fejlec {
+    background-color: black;
+}
 
 
 @media screen and (max-width: 1000px) {
