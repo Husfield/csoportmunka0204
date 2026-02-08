@@ -11,7 +11,7 @@ body{
     text-align: center;
 }
 
-.menu{
+#menu{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
@@ -20,6 +20,12 @@ body{
 a{
     text-decoration: none;
     color: rgb(179, 77, 5);
+}
+
+.tarolo, .fejlec, .tartalom, .lablec{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin: 20px;
 }
 
 p{
