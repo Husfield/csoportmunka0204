@@ -9,3 +9,17 @@ p{
     color: rgb(11, 134, 7);
 
 }
+
+h1{
+    color: rgb(136, 106, 6);
+    text-align: center;
+}
+
+h2{
+    color: rgb(123, 155, 8);
+}
+
+h3{
+    color: rgb(16, 170, 29);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
