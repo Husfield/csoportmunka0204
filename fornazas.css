@@ -5,6 +5,13 @@
 body{
     background-color: rgb(126, 57, 2);
 }
+
+.menu{
+    display: grid;
+    grid-template-columns 1fr 1fr 1fr;
+    gap: 10px;
+}
+
 p{
     color: rgb(11, 134, 7);
 
